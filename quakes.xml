@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:iris="http://service.iris.edu/fdsnws/event/1/" xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance">
+  <eventParameters publicID="smi:service.iris.edu/fdsnws/event/1/query">
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=11131881">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=41423391</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=196567819</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="39">
+        <text>CENTRAL CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=41423391" iris:contributorOriginId="nc73291880" iris:contributor="nc" iris:contributorEventId="us70005u9d,at00pzei47,nc73291880" iris:catalog="NEIC PDE">
+        <time>
+          <value>2019-10-15T05:33:42.810000Z</value>
+        </time>
+        <latitude>
+          <value>37.938</value>
+        </latitude>
+        <longitude>
+          <value>-122.057</value>
+        </longitude>
+        <depth>
+          <value>13970.0</value>
+        </depth>
+        <creationInfo>
+          <author>at,nc,us</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=196567819">
+        <mag>
+          <value>4.5</value>
+        </mag>
+        <type>Mwr</type>
+        <creationInfo>
+          <author>nc</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>

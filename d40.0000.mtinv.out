@@ -1,0 +1,27 @@
+Deviatoric Moment Tensor Inversion
+Depth = 40.0000 (km)
+Mo = 1.540e+23 (dyne-cm)
+Mw = 4.76
+Percent DC   =  84
+Percent CLVD =  16
+Percent ISO  =   0
+Fault Plane 1: Strike=251 Dip=88 Rake=8  
+Fault Plane 2: Strike=161 Dip=82 Rake=178
+Percent Variance Reduction = 72.61
+
+Moment Tensor Elements: Aki and Richards Cartesian Coordinates
+Mxx        Myy        Mzz        Mxy        Mxz        Myz
+-9.722e+22 8.390e+22  1.332e+22  -1.151e+23 -1.750e+22 8.185e+21 
+
+Harvard/CMT convention
+Mrr        Mtt        Mpp        Mrt        Mrp        Mtp
+1.332e+22  -9.722e+22 8.390e+22  -1.750e+22 -8.185e+21 1.151e+23 
+
+Eigenvalues: 1.416e+23 1.245e+22 -1.540e+23
+Lune Coordinates: 4.17   0.00  
+Station Information
+    station distance azimuth  ts  npts   dt  Z  R  T weights    VR longitude latitude
+ BK.MTOS.00    80.27  126.56  30   150 1.00  1  1  1    1.00 63.59  -121.330   37.500
+ BK.FARB.00    87.30  252.51  30   150 1.00  1  1  1    1.09 88.96  -123.000   37.700
+ BK.MNRC.00   109.73  342.24  30   150 1.00  1  1  1    1.37 69.64  -122.440   38.880
+ BK.WELL.00   129.31   64.15  30   150 1.00  1  1  1    1.61 68.31  -120.720   38.440
